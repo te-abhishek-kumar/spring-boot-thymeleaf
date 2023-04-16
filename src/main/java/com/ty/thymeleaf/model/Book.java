@@ -27,4 +27,6 @@ public class Book {
 
 	private String author;
 
+	private Long price;
+
 }
