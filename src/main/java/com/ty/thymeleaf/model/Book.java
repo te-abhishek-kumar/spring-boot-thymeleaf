@@ -30,5 +30,7 @@ public class Book {
 	private Long price;
 
 	private String publication;
+	
+	private String publishYear;
 
 }
